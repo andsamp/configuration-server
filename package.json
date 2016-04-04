@@ -1,0 +1,12 @@
+{
+  "name": "tenable",
+  "version": "1.0.0",
+  "description": "simple vanilla RESTful servies with authentication",
+  "main": "server.js",
+  "author": "andy sampson",
+  "license": "ISC",
+  "scripts": {
+    "test": "node ./test/serviceTests.js",
+    "start": "node ./server.js"
+  }
+}

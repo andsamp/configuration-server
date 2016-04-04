@@ -1,0 +1,10 @@
+[
+  {
+    "username": "user1",
+    "hashedPassword": "9ea4044dd92002f7f9e8c8bb5961f737"
+  },
+  {
+    "username": "different.user",
+    "hashedPassword": "ae455f02cad18504c9f01e24f5ad2b85"
+  }
+]
